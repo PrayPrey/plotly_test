@@ -3,8 +3,8 @@
     {
       "tensorName": "My tensor",
       "tensorShape": [1000, 50],
-      "tensorPath": "https://gist.githubusercontent.com/PrayPrey/6f655731ed00ddc5576ea77b9fb01290/raw/eb10e041b588425c6d3a3a7f9d7fcce7fe43f21f/metadata_standard.tsv",
-      "metadataPath": "https://gist.githubusercontent.com/PrayPrey/6f655731ed00ddc5576ea77b9fb01290/raw/eb10e041b588425c6d3a3a7f9d7fcce7fe43f21f/vector_standard.tsv"
+      "tensorPath": "https://gist.githubusercontent.com/PrayPrey/6f655731ed00ddc5576ea77b9fb01290/raw/eb10e041b588425c6d3a3a7f9d7fcce7fe43f21f/vector_standard.tsv",
+      "metadataPath": "https://gist.githubusercontent.com/PrayPrey/6f655731ed00ddc5576ea77b9fb01290/raw/eb10e041b588425c6d3a3a7f9d7fcce7fe43f21f/metadata_standard.tsv"
     }
   ]
 }
